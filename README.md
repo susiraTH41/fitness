@@ -1,6 +1,6 @@
 # fitness
 
-A new Flutter project.
+practice Flutter Skill
 
 ## Getting Started
 
